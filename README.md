@@ -1,3 +1,7 @@
+# Introdução ao estudo sobre data science
+<p align="center">
 <img src="banner.jpg">
+</p>
 
-# estudo-data-science
+Anderson do Nascimento
+
