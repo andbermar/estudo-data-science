@@ -6,6 +6,6 @@
 ## Anderson do Nascimento
 
 ### Meus projetos:
-* **Análise dos dados da Airbnb cidade de Buenos Aires ** - 
+* **Análise dos dados da Airbnb cidade de Buenos Aires** - 
 * **Análise dos dados da polícia militar de São Paulo** - 
 
